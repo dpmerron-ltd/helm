@@ -15,4 +15,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ```Text
 Copyright (c) 2021 ownCloud GmbH
+Copyright (c) 2021  [VNC - Virtual Network Consult AG] [https://vnclagoon.com] 
 ```
